@@ -1,0 +1,11 @@
+.progress--bar {
+   margin-bottom: 0.5rem;
+}
+
+.progress--label {
+   margin-bottom: 0.2rem;
+}
+
+.progress--bar .progress {
+   height: 23px;
+}

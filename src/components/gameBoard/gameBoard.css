@@ -1,0 +1,12 @@
+.gameboard {
+   border: 1px black solid;
+   border-radius: 5px;
+   min-width: 30vw;
+   padding: 15px;
+   background-color: rgb(241, 241, 240);
+}
+
+.gameboard-title {
+   text-align: center;
+   margin-bottom: 30px;
+}

@@ -1,0 +1,14 @@
+.gameboard-user {
+   background-color: rgb(172, 217, 255);
+   padding: 15px;
+   position: relative;
+   margin-bottom: 24px;
+}
+
+.gameboard-user .bug .progress-bar {
+   background-color: rgb(223, 133, 15);
+}
+
+.gameboard--title {
+   border-bottom: 1px black solid;
+}
